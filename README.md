@@ -6,7 +6,9 @@ Python bot for @TheTracklister on Twitter. Copies all tracklist-related tweets t
 How to use this?
 ----------------
 
-Edit ```config.py``` to your needs and then run ```python3 .``` in the bot directory.
+- Copy ```examples/tracklister.conf``` to ```tracklister.conf``` in the bot directory.
+- Edit the new configuration file to your needs.
+- Run ```python3 .``` in the bot directory.
 
 License
 -------
